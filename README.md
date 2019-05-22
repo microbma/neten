@@ -10,7 +10,7 @@ install_github("microbma/neten")
 
 Or you can download the binary package for this package from GitHub repository:
 
-(https://github.com/microbma/neten)[https://github.com/microbma/neten)
+https://github.com/microbma/neten
 
 # Useage
 
@@ -23,6 +23,6 @@ mat2 <- Network_Enhancement(mat1)
 
 $mat2$ is the enhanced matrix. From this matrix we can infer a network with higher confidence.
 
-![]("test.jpg")
+![](test.jpg)
 
 
